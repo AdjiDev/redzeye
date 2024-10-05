@@ -5,9 +5,9 @@ Advanced tracker tools
 <p>redzeye adalah alat pelacak yang canggih untuk membantu Anda dalam melakukan berbagai jenis pencarian dan pengumpulan informasi. Dengan antarmuka yang sederhana dan fitur yang kuat, redzeye memudahkan pengguna untuk melakukan analisis data dan investigasi secara efektif.</p>
 
 <h2>Screenshots</h2>
-<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss1.png" alt="Screenshot 1" style="max-width:75%; height:auto;">
-<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss2.png" alt="Screenshot 2" style="max-width:75%; height:auto;">
-<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss3.png" alt="Screenshot 3" style="max-width:75%; height:auto;">
+<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss1.png" alt="Screenshot 1" style="max-width:35%; height:auto;">
+<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss2.png" alt="Screenshot 2" style="max-width:35%; height:auto;">
+<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss3.png" alt="Screenshot 3" style="max-width:35%; height:auto;">
 
 <h2>Instalasi</h2>
 <p>Untuk menginstal redzeye, Anda perlu mengikuti langkah-langkah berikut:</p>
