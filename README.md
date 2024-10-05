@@ -41,7 +41,7 @@ Advanced tracker tools
 <p>Jika Anda ingin berkontribusi pada pengembangan redzeye, silakan buat pull request atau buka isu di repositori GitHub ini.</p>
 
 <h2>Lisensi</h2>
-<p>redzeye dilisensikan di bawah <strong>MIT License</strong>. Lihat file <a href="https://github.com/adjidev/redzeye/license>lisensi</a> untuk informasi lebih lanjut.</p>
+<p>redzeye dilisensikan di bawah <strong>MIT License</strong>. Lihat file <a href="https://github.com/AdjiDev/redzeye/blob/main/LICENSE">lisensi</a> untuk informasi lebih lanjut.</p>
 
 <h3>Kontak</h3>
 <p>Untuk pertanyaan atau dukungan lebih lanjut, Anda dapat menghubungi <a href="https://t.me/adjidev">AdjiDev di Telegram</a>.</p>
