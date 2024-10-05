@@ -5,9 +5,9 @@ Advanced tracker tools
 <p>redzeye adalah alat pelacak yang canggih untuk membantu Anda dalam melakukan berbagai jenis pencarian dan pengumpulan informasi. Dengan antarmuka yang sederhana dan fitur yang kuat, redzeye memudahkan pengguna untuk melakukan analisis data dan investigasi secara efektif.</p>
 
 <h2>Screenshots</h2>
-<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss1.png" alt="Screenshot 1" style="max-width:100%; height:auto;">
-<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss2.png" alt="Screenshot 2" style="max-width:100%; height:auto;">
-<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss3.png" alt="Screenshot 3" style="max-width:100%; height:auto;">
+<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss1.png" alt="Screenshot 1" style="max-width:75%; height:auto;">
+<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss2.png" alt="Screenshot 2" style="max-width:75%; height:auto;">
+<img src="https://raw.githubusercontent.com/AdjiDev/redzeye/refs/heads/main/ss3.png" alt="Screenshot 3" style="max-width:75%; height:auto;">
 
 <h2>Instalasi</h2>
 <p>Untuk menginstal redzeye, Anda perlu mengikuti langkah-langkah berikut:</p>
@@ -41,7 +41,7 @@ Advanced tracker tools
 <p>Jika Anda ingin berkontribusi pada pengembangan redzeye, silakan buat pull request atau buka isu di repositori GitHub ini.</p>
 
 <h2>Lisensi</h2>
-<p>redzeye dilisensikan di bawah <strong>MIT License</strong>. Lihat file <code>LICENSE</code> untuk informasi lebih lanjut.</p>
+<p>redzeye dilisensikan di bawah <strong>MIT License</strong>. Lihat file [lisensi](LICENSE) untuk informasi lebih lanjut.</p>
 
 <h3>Kontak</h3>
 <p>Untuk pertanyaan atau dukungan lebih lanjut, Anda dapat menghubungi <a href="https://t.me/adjidev">AdjiDev di Telegram</a>.</p>
